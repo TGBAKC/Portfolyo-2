@@ -21,7 +21,7 @@ This is my portfolio showcasing my student work for the final year of my two-yea
 
 Clone the repo:
 ```sh
-git clone git@github.com:jonhenrikaavitsland/portfolio.git
+git clone https://github.com/TGBAKC/Portfolyo-2.git
 ```
 
 Install the dependencies:
