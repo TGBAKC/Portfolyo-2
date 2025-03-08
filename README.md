@@ -1,4 +1,4 @@
-# Portfolyo-2
+# My Portfolyo
 
 ![alt text](image-1.png)
 
@@ -6,9 +6,9 @@
 This is my portfolio showcasing my student work for the final year of my two-year studies into front-end development. It displays my skills and abilities as well as a way to contact me should there be interest.
 
 ## Projects include:
-- **My final exam** - Holidaze
-- **My Course Assignment in JavaScript Frameworks** - Quick Shop
-- **My Semester Project 2** - BidBliss
+- **My final exam** - Project-Exam-2-main
+- **My Course Assignment in JavaScript Frameworks** 
+- **My Semester Project 2** - EstateBid
 
 ## Built With:
 - React.js
@@ -42,7 +42,7 @@ I do not want contributions to my portfolio.
 ---
 
 ## Contact
-[My LinkedIn page](#)
+[tugbakca47@gmail.com](#)
 
 ---
 
@@ -52,8 +52,4 @@ ISC
 ---
 
 ## Acknowledgments
-I would like to extend my heartfelt gratitude to my tutors, whose guidance, patience, and expertise have been invaluable in my academic journey. Their unwavering support and insightful feedback have not only enriched my understanding but also inspired me to continually strive for excellence.
-
-I am equally grateful to my peers for their camaraderie, collaboration, and constant encouragement. Their willingness to share ideas, provide constructive criticism, and celebrate successes together has made this journey both rewarding and enjoyable.
-
-Thank you all for your support and for being an essential part of my growth and success.
+A big thank you to my tutors and peers for their support, guidance, and encouragement throughout my journey. Your help has meant a lot to me!
